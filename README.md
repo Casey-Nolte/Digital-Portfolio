@@ -19,7 +19,9 @@ Date: October 2025
 ### Evidence
 ---
 CV: 
-[View My Updated CV (PDF)][CaseyAbigailNolte.pdf](https://github.com/user-attachments/files/22955164/CaseyAbigailNolte.pdf)
+View My Updated CV (PDF)[CaseyAbigailNolte.pdf](https://github.com/user-attachments/files/22955164/CaseyAbigailNolte.pdf)
+<img width="747" height="298" alt="CV" src="https://github.com/user-attachments/assets/d4e23fd0-dfab-46f8-b008-7cbfbb34987c" />
+
 
 
 Cover Letter:
