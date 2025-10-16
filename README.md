@@ -19,7 +19,8 @@ Date: October 2025
 ### Evidence
 ---
 CV:
-![Updated CV]()
+![Updated CV][CaseyAbigailNolte.pdf](https://github.com/user-attachments/files/22954924/CaseyAbigailNolte.pdf)
+
 Cover Letter:
 
 Email Sample:
