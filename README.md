@@ -67,7 +67,8 @@ valuable skills for any future job opportunity.
 ## Mock Interview
 ### Evidence
 ---
-Mock Interview Video: Watch My Mock Interview (MP4) 
+Mock Interview Video: Watch My Mock Interview (MP4) https://github.com/Casey-Nolte/mock-interview 
+<img width="427" height="142" alt="mock interview" src="https://github.com/user-attachments/assets/e60a3ae7-83cd-41b2-a7b8-33975d085b9e" />
 
 ### Reflection (STAR Technique)
 
