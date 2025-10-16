@@ -18,8 +18,9 @@ Date: October 2025
 ## Business Communication 
 ### Evidence
 ---
-CV:
-![Updated CV][CaseyAbigailNolte.pdf](https://github.com/user-attachments/files/22954924/CaseyAbigailNolte.pdf)
+CV: 
+[View My Updated CV (PDF)][CaseyAbigailNolte.pdf](https://github.com/user-attachments/files/22955164/CaseyAbigailNolte.pdf)
+
 
 Cover Letter:
 
