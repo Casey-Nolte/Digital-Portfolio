@@ -18,18 +18,13 @@ Date: October 2025
 ## Business Communication 
 ### Evidence
 ---
-CV: 
-
-Updated CV (PDF) [CaseyAbigailNolte.pdf](https://github.com/user-attachments/files/22955164/CaseyAbigailNolte.pdf)
+CV: Updated CV (PDF) [CaseyAbigailNolte.pdf](https://github.com/user-attachments/files/22955164/CaseyAbigailNolte.pdf)
 <img width="747" height="298" alt="CV" src="https://github.com/user-attachments/assets/d4e23fd0-dfab-46f8-b008-7cbfbb34987c" />
 
-Cover Letter:
-Motivatonal Letter (PDF) [Motivation Letter.pdf](https://github.com/user-attachments/files/22955271/Motivation.Letter.pdf)<img width="631" height="215" alt="Motivation Letter" src="https://github.com/user-attachments/assets/c75bf816-00ae-45ac-93c3-038ecc6a9d06" />
+Cover Letter: Motivatonal Letter (PDF) [Motivation Letter.pdf](https://github.com/user-attachments/files/22955271/Motivation.Letter.pdf)<img width="631" height="215" alt="Motivation Letter" src="https://github.com/user-attachments/assets/c75bf816-00ae-45ac-93c3-038ecc6a9d06" />
 
-
-Email Sample:
-
-Plum Systems and BANKSETA 
+Email Sample: Plum Systems and BANKSETA 
+<img width="958" height="442" alt="Email Sample" src="https://github.com/user-attachments/assets/7c090262-7f2f-4657-979b-d920d9575306" />
 
 ### Reflection (STAR Technique)
 
@@ -49,9 +44,11 @@ communication and how well-structured documents can influence first impressions 
 ## Interview Skills
 ### Evidence
 ---
-Interview Preparation Notes:
+Interview Preparation Notes: Notes given for interview (PDF) [Interview Notes.pdf](https://github.com/user-attachments/files/22955423/Interview.Notes.pdf)
+<img width="672" height="435" alt="Intervierw Notes" src="https://github.com/user-attachments/assets/9db98fb9-f0f0-4ac1-be85-8c1c10422f73" />
 
-Sample Question:
+Sample Question: Interview question that has been ask (PDF) [Technical interview questions.pdf](https://github.com/user-attachments/files/22955466/Technical.interview.questions.pdf)
+<img width="637" height="132" alt="question" src="https://github.com/user-attachments/assets/e48c50d9-681a-4483-9d36-79037c2c1e3b" />
 
 ### Reflection (STAR Technique)
 
@@ -70,7 +67,7 @@ valuable skills for any future job opportunity.
 ## Mock Interview
 ### Evidence
 ---
-Mock Interview Video: 
+Mock Interview Video: Watch My Mock Interview (MP4) 
 
 ### Reflection (STAR Technique)
 
