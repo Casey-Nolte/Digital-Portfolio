@@ -19,14 +19,17 @@ Date: October 2025
 ### Evidence
 ---
 CV: 
-View My Updated CV (PDF)[CaseyAbigailNolte.pdf](https://github.com/user-attachments/files/22955164/CaseyAbigailNolte.pdf)
+
+Updated CV (PDF) [CaseyAbigailNolte.pdf](https://github.com/user-attachments/files/22955164/CaseyAbigailNolte.pdf)
 <img width="747" height="298" alt="CV" src="https://github.com/user-attachments/assets/d4e23fd0-dfab-46f8-b008-7cbfbb34987c" />
 
-
-
 Cover Letter:
+Motivatonal Letter (PDF) [Motivation Letter.pdf](https://github.com/user-attachments/files/22955271/Motivation.Letter.pdf)<img width="631" height="215" alt="Motivation Letter" src="https://github.com/user-attachments/assets/c75bf816-00ae-45ac-93c3-038ecc6a9d06" />
+
 
 Email Sample:
+
+Plum Systems and BANKSETA 
 
 ### Reflection (STAR Technique)
 
